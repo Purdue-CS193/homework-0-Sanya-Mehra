@@ -1,4 +1,10 @@
-Hi, I'm Sanya!
+#Sanya's First CS193 Homework
+
+My Favorite Things About CS193:
+
+- Stress-free class environment
+- Class content with many real world applications
+- Fun icebreakers  
 
 ## Welcome to GitHub Pages
 
